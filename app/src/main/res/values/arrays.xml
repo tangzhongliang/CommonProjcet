@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_list" >
+        <item>当天</item>
+        <item>3日内</item>
+        <item>1周</item>
+        <item>2周</item>
+        <item>1月</item>
+    </string-array>
+</resources>

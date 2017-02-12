@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hlv_overscroll_edge.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\it.sephiroth.android.library.horizontallistview\\hlistview\\1.2.2\\res\\drawable-hdpi\\hlv_overscroll_edge.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hlv_overscroll_glow.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\it.sephiroth.android.library.horizontallistview\\hlistview\\1.2.2\\res\\drawable-hdpi\\hlv_overscroll_glow.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

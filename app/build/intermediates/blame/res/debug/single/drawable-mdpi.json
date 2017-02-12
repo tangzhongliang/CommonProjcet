@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_scan_normal.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_scan_normal.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_print.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_print.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_print_click.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_print_click.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_arrow02.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_arrow02.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_scan_pressed.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_scan_pressed.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_arrow02_c.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_arrow02_c.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hlv_overscroll_edge.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\it.sephiroth.android.library.horizontallistview\\hlistview\\1.2.2\\res\\drawable-mdpi\\hlv_overscroll_edge.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hlv_overscroll_glow.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\it.sephiroth.android.library.horizontallistview\\hlistview\\1.2.2\\res\\drawable-mdpi\\hlv_overscroll_glow.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_print_unenable.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-mdpi\\btn_print_unenable.png"
+    }
+]

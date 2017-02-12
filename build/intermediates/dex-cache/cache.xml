@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_2efa08fe618a88c52caeb7779fa63e6d5f195f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="caeb02439d439d221f8be4aaf33931153bbe34db">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\activation_0d78f2394f842ab4c74e46bae981e7406931d7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\SDKService.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e22d47f305cb09014203310126f9fb4ab68b560">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\SDKService_2dda57d0acb91e4870111d20bbafab55c508d999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\it.sephiroth.android.library.horizontallistview\hlistview\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\it.sephiroth.android.library.horizontallistview-hlistview-1.2.2_8719c54bbe8d4a8d8b287c0441c49e55a19c6179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_0ccc45a441c952eeaca03ea221b1e31f9a3edf5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f50c3e3fd9b8da9fa98abe427f0f2ba73cc91375">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\SuperSizeScan-cheetahMiniUtil-unspecified_607cd256afc70d98ca492cc36bfc5f2830bf77d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1ec1665abd1e1a471dc2cb31219bc765d2fd674">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\mail_3b6b21b21aa7b23d6f66e2acd411e5bd6ba3b08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="137e0cb2902569830893293ab228996cc87f0507">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\SuperSizeScan-cheetahMiniUtil-unspecified_0188b4620db3326c4d57cda444d97a3db4f829bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57adc1843cc21aa845e27adb0aa32ea9a4537cd9">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\additionnal_ee2e11b52a7f98403b75b64de54fc79a6388d4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\it.sephiroth.android.library.horizontallistview\hlistview\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\it.sephiroth.android.library.horizontallistview-hlistview-1.2.2_09ec87e8a30e17353663edb930e731aa1ba6c8cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work-software\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_2094f593601dcbff4fbccbfc429bb5a6c3c27f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\SDKService.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e22d47f305cb09014203310126f9fb4ab68b560">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\SDKService_75eb43f026ad56b2c35a8e2afe1169cf74335dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57adc1843cc21aa845e27adb0aa32ea9a4537cd9">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\additionnal_d1afbfccd9f04317f11cda76401fb31da9e4dbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\ricoh\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\jsonic-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d8e93bb94a25ef2856bf27a4264e05595792390f">
+        <dex dex="C:\work\ricoh\SuperSizeScan\app\build\intermediates\pre-dexed\debug\jsonic-1.3.0_de5d4b9cfd2e63895c73d2644c976138db4d13ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="caeb02439d439d221f8be4aaf33931153bbe34db">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\activation_6b8b08e70049ac728c1a1063a7785b36dd8a7e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1ec1665abd1e1a471dc2cb31219bc765d2fd674">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\mail_5877e060f675d881737b8d76a2a2be403254adb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\SuperSizeScan\app\build\intermediates\exploded-aar\SuperSizeScan\cheetahMiniUtil\unspecified\jars\libs\jsonic-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d8e93bb94a25ef2856bf27a4264e05595792390f">
+        <dex dex="C:\work\SuperSizeScan\app\build\intermediates\pre-dexed\debug\jsonic-1.3.0_8366ab001f1596481bda2c8c0d552ab2752ec973.jar" />
+    </item>
+
+</items>

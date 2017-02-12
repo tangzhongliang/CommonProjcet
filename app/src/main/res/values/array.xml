@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_list">
+        <item>仅用于房屋出售</item>
+        <item>仅用于房屋租赁</item>
+        <item>仅用于房屋买卖</item>
+    </string-array>
+</resources>

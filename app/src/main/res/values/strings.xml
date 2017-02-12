@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Size Scan</string>
+    <string name="dlg_scaning">Scanning</string>
+    <string name="dlg_combine_fail">Combine Fail</string>
+    <string name="dlg_combine_alert">Please scan image first</string>
+    <string name="dlg_combine_success">Combine success</string>
+    <string name="dlg_sending_email">Sending email</string>
+    <string name="dlg_sending_email_alert">Click the Combine button to combine pictures</string>
+    <string name="dlg_combineing">Combing...</string>
+    <string name="txt_email_address">Email address</string>
+    <string name="txt_scan_first_hint">Click the Scan button to scan the first picture from the platen</string>
+    <string name="txt_scan_second_hint">Click the Scan button to scan the second picture from the platen</string>
+    <string name="txt_combine_image_hint">Click the Combine button to combine images</string>
+    <string name="txt_send_email_hint">Click the Send button to send combined image to email</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_combine">Combine</string>
+    <string name="btn_send">Send</string>
+    <string name="dlg_email_invalid">Email input invalid</string>
+
+
+    <string name="msg_dialog_mail_invalid_1">Mail address is invalid.</string>
+    <string name="msg_dialog_mail_invalid_2">Please input it again.</string>
+
+    <string name="msg_dialog_mail_smtp_server_access_failed">Mail smtp server access failed</string>
+    <string name="msg_dialog_mail_smtp_server_setting_invalid">Mail smtp server setting invalid</string>
+
+    <string name="msg_dialog_mail_smtp_auth_error">Authentication failure</string>
+    <string name="msg_mail_label">Mail Address</string>
+    <string name="msg_dialog_no_permission">You do not have the privileges to use this function.</string>
+    <string name="horizontal">horizontal</string>
+    <string name="vertical">vertical</string>
+    <string name="combine_direction">Combine Direction</string>
+    <string name="send_success">Send mail success</string>
+    <string name="send_fail">Send mail fail</string>
+</resources>

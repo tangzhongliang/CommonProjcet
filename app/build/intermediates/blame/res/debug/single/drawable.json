@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sim_bt_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_sim_bt_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_page02_next.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_page02_next.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_round.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\imageview_round.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_button_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\setting_button_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_close_btn.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_close_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sim_bt_previewzoomout.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_sim_bt_previewzoomout.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_page02_prev.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_page02_prev.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_print_text_color_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\scan_print_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\introduce_bg.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\introduce_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_normal.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_sel.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\item_bg_sel.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_line_w.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\rect_line_w.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ok_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_ok_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\seekbar.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\spinner_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_wizard_cancel.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_wizard_cancel.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\print_bt_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\print_bt_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_08.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_08.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_ok.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_button_ok.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_02.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_02.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cancel_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_cancel_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_10.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_10.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_05.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_05.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_select.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\item_bg_select.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ring.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\ring.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_print_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\btn_print_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_logo_list_bg_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\item_logo_list_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_helper_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\btn_helper_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4_bg.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\a4_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sendbtn_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\sendbtn_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_scan_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\btn_scan_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\school.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\school.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zoom_out_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\btn_zoom_out_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_matter.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\icon_matter.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_line_n.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\rect_line_n.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_page03.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_page03.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_dialog_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_07.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_07.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_dest.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_dest.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_alert_dialog_ok.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_alert_dialog_ok.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ring_click.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\ring_click.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_title_radio.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_icon_title_radio.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bg.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_act_slide_01.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\icon_act_slide_01.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_stop_01.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_stop_01.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_light_sel.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\text_light_sel.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanbtn_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\scanbtn_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_cursor.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\style_cursor.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\btn_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_0.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\layer_0.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_bg_sel.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\view_bg_sel.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_12.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_12.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sim_bt_previewzoomin.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_sim_bt_previewzoomin.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imghelp_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\imghelp_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_com_01.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_com_01.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_text_color_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_matter_click.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\icon_matter_click.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bg.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable\\tool_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll_bar.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\scroll_bar.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zoom_in_selector.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\btn_zoom_in_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_page04.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_bt_page04.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_back.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\drawable\\selector_button_back.xml"
+    }
+]

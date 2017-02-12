@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Android.mk",
+    "C:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\work-software\\android-ndk-r12b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dC:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dC:\\work\\SuperSizeScan\\app\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dC:\\work\\SuperSizeScan\\app\\build\\intermediates\\ndkBuild\\release\\lib NDK_APPLICATION_MK:\u003dsrc/main/cpp/Application.mk clean"
+  ],
+  "libraries": {
+    "native-lib-release-mips": {
+      "buildCommand": "C:\\work-software\\android-ndk-r12b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dC:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dC:\\work\\SuperSizeScan\\app\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dC:\\work\\SuperSizeScan\\app\\build\\intermediates\\ndkBuild\\release\\lib NDK_APPLICATION_MK:\u003dsrc/main/cpp/Application.mk C:\\work\\SuperSizeScan\\app\\.externalNativeBuild\\ndkBuild\\release\\obj/local/mips/libnative-lib.so",
+      "toolchain": "toolchain-mips",
+      "abi": "mips",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\work\\SuperSizeScan\\app\\src\\main\\cpp\\..\\cpp\\native-lib.cpp",
+          "flags": "\"-fpic\" \"-finline-functions\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fmessage-length\u003d0\" \"-fno-inline-functions-called-once\" \"-fgcse-after-reload\" \"-frerun-cse-after-loop\" \"-frename-registers\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-IC:/work-software/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-IC:/work-software/OpenCV-android-sdk/sdk/native/jni/include\" \"-IC:/work-software/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-IC:/work-software/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/include\" \"-IC:/work-software/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-IC:/work/SuperSizeScan/app/src/main/cpp\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-std\u003dc++11\" \"-pthread\" \"-frtti\" \"-fexceptions\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"C:/work-software/android-ndk-r12b/build//../platforms/android-17/arch-mips/usr/include\""
+        }
+      ],
+      "output": "C:\\work\\SuperSizeScan\\app\\.externalNativeBuild\\ndkBuild\\release\\obj\\local\\mips\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-mips": {
+      "cppCompilerExecutable": "C:\\work-software\\android-ndk-r12b\\build\\..\\toolchains\\mipsel-linux-android-4.9\\prebuilt\\windows-x86_64\\bin\\mipsel-linux-android-g++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

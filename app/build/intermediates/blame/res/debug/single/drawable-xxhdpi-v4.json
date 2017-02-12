@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selector_print.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-xxhdpi\\selector_print.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selector_btn_text_color.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-xxhdpi\\selector_btn_text_color.xml"
+    }
+]

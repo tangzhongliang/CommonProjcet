@@ -1,0 +1,74 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 17
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "jp.co.ricoh.advop.supersizescan"
+        minSdkVersion 17
+        targetSdkVersion 17
+        versionCode 1
+        versionName "0.1"
+//        externalNativeBuild {
+//////            cmake {
+//////                cppFlags "-std=c++11 -frtti -fexceptions"
+////            }
+//            ndkBuild {
+//                arguments "NDK_APPLICATION_MK:=src/main/cpp/Application.mk"
+////                cppFlags "-std=c++11 -frtti -fexceptions"
+//            }
+//        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+//    externalNativeBuild {
+////        cmake {
+////            path "CMakeLists.txt"
+////        }
+//        ndkBuild {
+//            path file("src/main/cpp/Android.mk")
+//        }
+//    }
+
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['src/main/libs']
+        }
+    }
+
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':cheetahMiniUtil')
+    testCompile 'junit:junit:4.12'
+}
+tasks.withType(JavaCompile) {
+    compileTask -> compileTask.dependsOn 'copyJniLibs'
+}
+
+task ndkBuild(type: Exec) {
+    def jniSrc = "src/main/cpp"
+    def ndkDir = project.plugins.findPlugin('com.android.application').sdkHandler.getNdkFolder()
+    commandLine "$ndkDir/ndk-build.cmd", "NDK_PROJECT_PATH=$jniSrc", "NDK_APPLICATION_MK=$jniSrc/Application.mk", "APP_BUILD_SCRIPT=$jniSrc/Android.mk", 'NDK_DEBUG=1',
+            "NDK_OUT=$buildDir/ndk/obj",
+            "NDK_APP_DST_DIR=$buildDir/ndk/libs/\$(TARGET_ARCH_ABI)"
+}
+
+task copyJniLibs(type: Copy) {
+    from fileTree(dir: file(buildDir.absolutePath + '/ndk/libs'), include: '**/*.so')
+    into file('src/main/libs')
+}
+task cleanJniLibs(type: Delete) {
+    delete 'src/main/libs'
+}
+//project.afterEvaluate {
+//    preBuild.dependsOn copyJniLibs
+//}
+copyJniLibs.dependsOn ndkBuild
+ndkBuild.dependsOn cleanJniLibs

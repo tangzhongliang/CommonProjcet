@@ -1,0 +1,183 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/layer_0"
+        android:orientation="vertical"
+        tools:context="${packageName}.${activityClass}">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60px"
+            android:background="@color/title">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="30px"
+                android:gravity="center_vertical"
+                android:text="@string/app_name"
+                android:textSize="32px" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30px"
+            android:layout_marginTop="20px"
+            android:text="@string/txt_scan_first_hint"
+            android:textSize="24px" />
+
+        <RelativeLayout
+            android:id="@+id/webview_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="30px">
+
+            <LinearLayout
+                android:id="@+id/left_layout"
+                android:layout_width="240px"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/scan"
+                    android:layout_width="160px"
+                    android:layout_height="40px"
+                    android:layout_gravity="start"
+                    android:background="@drawable/scanbtn_selector"
+                    android:text="@string/btn_scan"
+                    android:textColor="#fff" />
+
+                <RelativeLayout
+                    android:id="@+id/image_layout"
+                    style="@style/image_parent"
+                    android:layout_height="0px"
+                    android:layout_marginTop="24px"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rect_line_n"
+                        android:padding="5px">
+
+                        <ImageView
+                            android:id="@+id/scan_first"
+                            style="@style/image_small" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:background="@drawable/rect_line_n"
+                        android:padding="5px">
+
+                        <ImageView
+                            android:id="@+id/scan_second"
+                            style="@style/image_small" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/middle_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="60px"
+                android:layout_toRightOf="@id/left_layout"
+                android:scaleType="centerInside"
+                android:src="@drawable/com_arrow_icon" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="4px"
+                android:layout_toRightOf="@id/middle_layout">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/rect_line_n"
+                    android:padding="5px">
+
+                    <ImageView
+                        android:id="@+id/combine_image"
+                        style="@style/image_large"
+                        android:layout_margin="0px" />
+                </LinearLayout>
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="24px"
+                    android:orientation="vertical">
+
+
+                    <Button
+                        android:id="@+id/combine"
+                        android:layout_width="@dimen/btn_width"
+                        android:layout_height="@dimen/btn_height"
+                        android:layout_gravity="start"
+                        android:textColor="@color/white"
+                        android:background="@drawable/scanbtn_selector"
+                        android:text="@string/btn_combine" />
+
+                </FrameLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="355px"
+        android:layout_height="291px"
+        android:layout_gravity="right|bottom"
+        android:background="@drawable/right_botton_bg"
+        android:paddingLeft="30px"
+        android:paddingTop="30px">
+        <!--android:layout_marginRight="-16px"-->
+        <TextView
+            android:id="@+id/mail_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/msg_mail_label"
+            android:textSize="24px" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="300px"
+            android:layout_height="48px"
+            android:layout_below="@id/mail_label"
+            android:layout_marginTop="16px"
+            android:paddingLeft="16px"
+            android:paddingRight="16px"
+            android:maxLength="244"
+            android:cursorVisible="false"
+            android:singleLine="true"
+            android:background="@drawable/com_inputbox"
+            android:focusableInTouchMode="true" />
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="130px"
+            android:layout_height="130px"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20px"
+            android:background="@drawable/sendbtn_selector"
+            android:text="@string/btn_send"
+            android:textColor="#fff" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,2 @@
+include ':app', ':cheetahMiniUtil'
+project(':cheetahMiniUtil').projectDir = new File('../cheetahMiniUtil/cheetahMiniUtil')

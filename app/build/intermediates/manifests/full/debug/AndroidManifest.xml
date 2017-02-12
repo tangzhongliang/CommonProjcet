@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.co.ricoh.advop.supersizescan"
+    android:versionCode="1"
+    android:versionName="0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="jp.co.ricoh.isdk.sdkservice.common.SdkService.APP_CMD_PERMISSION" />
+    <uses-permission android:name="jp.co.ricoh.isdk.sdkservice.common.SdkService.APP_EVENT_PERMISSION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="jp.co.ricoh.isdk.sdkservice.common.SdkService.RICOH_APP_CMD_PERMISSION" />
+    <uses-permission android:name="jp.co.ricoh.isdk.sdkservice.common.SdkService.RICOH_APP_EVENT_PERMISSION" /> <!-- android:name="jp.co.ricoh.advop.idcard.CheetahApplication" -->
+    <application
+        android:name="jp.co.ricoh.advop.supersizescan.CheetahApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_app_img_scan"
+        android:label="@string/app_name"
+        android:theme="@style/MyTheme" >
+        <meta-data
+            android:name="productId"
+            android:value="1679865088" />
+        <!-- <meta-data android:name="com.ricoh.statusbar.needs_menu" android:value="true" /> -->
+        <meta-data
+            android:name="jp.co.ricoh.advop.metadata.RequiredFunction"
+            android:value="limit_func_scan" />
+
+        <!-- android:configChanges="locale|layoutDirection|keyboard|keyboardHidden|fontScale|mcc|mnc|touchscreen|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" -->
+        <activity
+            android:name="jp.co.ricoh.advop.supersizescan.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:theme="@style/MyTheme"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

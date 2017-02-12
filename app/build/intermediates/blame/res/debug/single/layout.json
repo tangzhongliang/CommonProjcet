@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_helper.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\layout_helper.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_input.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\layout_input.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_title_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_title_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_image_list.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\view_image_list.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_webview.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_webview.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logo_list_adapter_item_view.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\logo_list_adapter_item_view.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_prograss.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_prograss.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_connection.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_connection.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_layout.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\layout\\select_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\orient_list_item.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\layout\\orient_list_item.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_password.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_password.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_three_button.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\dialog_three_button.xml"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_zoom.xml",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\exploded-aar\\SuperSizeScan\\cheetahMiniUtil\\unspecified\\res\\layout\\layout_zoom.xml"
+    }
+]

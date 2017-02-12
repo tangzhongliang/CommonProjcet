@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_inputbox.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_inputbox.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\right_botton_bg.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\right_botton_bg.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\print_button_w.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\print_button_w.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\print_button_n.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\print_button_n.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_title_bg.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_title_bg.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\dialog_bg.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\dialog_bg.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\map.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\map.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\area_img_small.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\area_img_small.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_button_gray.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_button_gray.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\dialog_line.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\dialog_line.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_button_n.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_button_n.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\dialog_cancel_button_n.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\dialog_cancel_button_n.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_arrow_icon.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_arrow_icon.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\area_img_large.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\area_img_large.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\input_box_popup_bg.9.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\input_box_popup_bg.9.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\com_button_w.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\com_button_w.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\dialog_cancel_button_w.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\dialog_cancel_button_w.png"
+    },
+    {
+        "merged": "C:\\work\\ricoh\\SuperSizeScan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\print_button_g.png",
+        "source": "C:\\work\\ricoh\\SuperSizeScan\\app\\src\\main\\res\\drawable-nodpi\\print_button_g.png"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">大判画像スキャン</string>
+    <string name="dlg_scaning">スキャン中です。</string>
+    <string name="dlg_combine_fail">画像合成に失敗しました。</string>
+    <string name="dlg_combine_alert">Click the Scan button to scan pictures</string>
+    <string name="dlg_combine_success">画像合成に成功しました。</string>
+    <string name="dlg_sending_email">送信中です。</string>
+    <string name="dlg_sending_email_alert">Click the Combine button to combine pictures</string>
+    <string name="send_success">メール送信に成功しました。</string>
+    <string name="send_fail">メール送信に失敗しました。</string>
+    <string name="dlg_combineing">しばらくおまちください。</string>
+    <string name="txt_email_address">宛先</string>
+    <string name="txt_scan_first_hint">一枚目画像を圧板に置いてから、「スキャン」ボタンを押下してください。</string>
+    <string name="txt_scan_second_hint">二枚目画像を圧板に置いてから、「スキャン」ボタンを押下してください。</string>
+    <string name="txt_combine_image_hint">スキャン成功しました。 「合成」ボタンを押下してください。</string>
+    <string name="txt_send_email_hint">合成成功しました。 「送信」ボタンを押下してください。</string>
+    <string name="btn_scan">スキャン</string>
+    <string name="btn_combine">合成</string>
+    <string name="btn_send">送信</string>
+    <string name="dlg_email_invalid">メールアドレスのフォーマットが正しくありません。</string>
+
+    <string name="msg_dialog_mail_invalid_1">メールアドレスのフォーマットが正しくありません。</string>
+    <string name="msg_dialog_mail_invalid_2">もう一度入力しなおしてください。</string>
+
+    <string name="msg_dialog_mail_smtp_auth_error">メールサーバ認証に失敗しました。</string>
+    <string name="msg_dialog_mail_smtp_server_access_failed">メールサーバ通信に失敗しました。</string>
+    <string name="msg_dialog_mail_smtp_server_setting_invalid">メールサーバの設定が正しくありません。</string>
+    <string name="msg_mail_label">宛先</string>
+    <string name="msg_dialog_no_permission">スキャン機能を利用する権限はありません。</string>
+
+    <string name="horizontal">水平</string>
+    <string name="vertical">垂直</string>
+    <string name="combine_direction">合成方向</string>
+</resources>
